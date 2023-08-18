@@ -1,5 +1,5 @@
 function Create() {
-  return <div>page</div>;
+  return <div className="bg-indigo-600">page</div>;
 }
 
 export default Create;
